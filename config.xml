@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="de.rsp24.schloebe" version="1.4.7" versionCode="15" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Rechtschreibprüfung</name>
+    <description>
+        Rechtschreibprüfung für unterwegs.
+    </description>
+    <author email="android@rechtschreibpruefung24.de" href="https://rechtschreibpruefung24.de/">
+        Oliver Schlöbe
+    </author>
+    <preference name="SplashScreen" value="splash" />
+	<preference name="SplashScreenDelay" value="10000" />
+	<preference value="false" name="stay-in-webview"/>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

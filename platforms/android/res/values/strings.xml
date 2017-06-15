@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rechtschreibprüfung</string>
+    <string name="app_name_short">Rechtschreibprüfung</string>
+    <string name="launcher_name">@string/app_name_short</string>
+    <string name="activity_name">@string/app_name</string>
+    <string name="import_success">Text wurde erfolgreich importiert!</string>
+</resources>

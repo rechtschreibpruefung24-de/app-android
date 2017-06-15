@@ -1,0 +1,13 @@
+{
+    "version": "0.1.1",
+    "name": "nl.madebymark.share",
+    "cordova_name": "Share",
+    "description": "Share text using the native Android/iOS popup",
+    "license": "Apache 2.0",
+    "keywords": [
+        "share",
+        "facebook",
+        "twitter"
+    ],
+    "engines": []
+}
